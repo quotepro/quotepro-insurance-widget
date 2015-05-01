@@ -17,77 +17,73 @@ msgstr ""
 #. Plugin Name of the plugin/theme
 #: plugin.php:52
 msgid "Quotepro Insurance Widget"
-msgstr "Quotepro Widget de Seguros"
+msgstr ""
 
 #: plugin.php:55
 msgid "Rate Auto and Motorcycle Insurance on your website"
-msgstr "Cotize seguro de Auto y motocicleta en su página web"
+msgstr ""
 
 #: plugin.php:176
 msgid "Free Insurance Quote"
-msgstr "Presupuesto de seguro Gratis"
+msgstr ""
 
 #: plugin.php:184
 msgid "https://aq3.processmyquote.com/PlainAgent"
-msgstr "https://aq3.processmyquote.com/PlainAgent"
+msgstr ""
 
 #: views/admin.php:2
 msgid "Title"
-msgstr "Titulo"
+msgstr ""
 
 #: views/admin.php:7
 msgid "Quotepro Retail Website Url"
-msgstr "Quotepro Retail URL del web"
-
-#: views/admin.php:9
-msgid "Request A Url"
-msgstr "Solicite una Url"
+msgstr ""
 
 #: views/admin.php:13
 msgid "Affiliate Id (optional)"
-msgstr "Id de Afiliado (opcional)"
+msgstr ""
 
 #: views/admin.php:18
 msgid "Language"
-msgstr "Idioma"
+msgstr ""
 
 #: views/admin.php:29
 msgid "Insurance Types"
-msgstr "Tipos de Seguros"
+msgstr ""
 
 #: views/widget.php:10
 msgid "Insurance Type"
-msgstr "Tipo de Seguros"
+msgstr ""
 
 #: views/widget.php:11
 msgid "Auto"
-msgstr "Auto"
+msgstr ""
 
 #: views/widget.php:12
 msgid "Motorcycle"
-msgstr "Motocicleta"
+msgstr ""
 
 #: views/widget.php:28
 msgid "Enter Zip Code"
-msgstr "Ingrese su Código Postal"
+msgstr ""
 
 #: views/widget.php:33
 msgid "GO &gt;"
-msgstr "IR &gt;"
+msgstr ""
 
 #. Plugin URI of the plugin/theme
 msgid "https://github.com/quotepro/quotepro-insurance-widget"
-msgstr "https://github.com/quotepro/quotepro-seguro-widget"
+msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
 "Plugin to add the ability to rate auto or cycle insurance from wordpress"
-msgstr "Ingrese para agregar la capacidad de cotiza seguro de auto/motocicleta en wordpress"
+msgstr ""
 
 #. Author of the plugin/theme
 msgid "Brian Marquis"
-msgstr "Brian Marquis"
+msgstr ""
 
 #. Author URI of the plugin/theme
 msgid "https://plus.google.com/u/1/104998013926973170131/posts"
-msgstr "https://plus.google.com/u/1/104998013926973170131/posts"
+msgstr ""
